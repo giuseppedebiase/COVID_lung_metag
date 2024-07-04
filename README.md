@@ -13,7 +13,7 @@ FastQC: /home/aazzolini/gdebiase/fastp/trimmed_qc
 MultiQC: /home/aazzolini/gdebiase/fastp/multiqc_trimmed  
 Nella cartella del MultiQC è presente anche il file "multiqc_report.html" contentente il risultato del MultiQC per tutte e 6 le run.
 
-## Inidicizzazione del genoma umano con STAR
+## Indicizzazione del genoma umano con STAR
 Assembly del genoma umano (CHM13 V2.0) e annotazioni scaricate da [qui](https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/)  
 [Script per l'indicizzazione](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_hs_t2t_index.sh)
 
