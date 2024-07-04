@@ -39,3 +39,4 @@ Run 3: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/sc
 Run 4: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r4.py)  [names4](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names4.txt)  
 Run 5: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r5.py)  [names5](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names5.txt)  
 Run 6: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r6.py)  [names6](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names6.txt)  
+[Tentativo 2](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv2.sh)
