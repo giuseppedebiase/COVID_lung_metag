@@ -1,0 +1,481 @@
+Jun 19 16:38:13 ..... started STAR run
+Jun 19 16:38:13 ..... loading genome
+Jun 19 16:38:50 ..... started mapping
+Jun 19 16:41:31 ..... started sorting BAM
+Jun 19 16:41:31 ..... finished successfully
+
+Jun 19 16:41:35 ..... started STAR run
+Jun 19 16:41:35 ..... loading genome
+Jun 19 16:42:14 ..... started mapping
+Jun 19 16:44:37 ..... started sorting BAM
+Jun 19 16:44:37 ..... finished successfully
+
+Jun 19 16:44:42 ..... started STAR run
+Jun 19 16:44:42 ..... loading genome
+Jun 19 16:45:21 ..... started mapping
+Jun 19 16:48:37 ..... started sorting BAM
+Jun 19 16:48:37 ..... finished successfully
+
+Jun 19 16:48:41 ..... started STAR run
+Jun 19 16:48:41 ..... loading genome
+Jun 19 16:49:22 ..... started mapping
+Jun 19 16:52:05 ..... started sorting BAM
+Jun 19 16:52:05 ..... finished successfully
+
+Jun 19 16:52:09 ..... started STAR run
+Jun 19 16:52:09 ..... loading genome
+Jun 19 16:52:50 ..... started mapping
+Jun 19 16:56:27 ..... started sorting BAM
+Jun 19 16:56:27 ..... finished successfully
+
+Jun 19 16:56:32 ..... started STAR run
+Jun 19 16:56:32 ..... loading genome
+Jun 19 16:57:12 ..... started mapping
+Jun 19 17:00:29 ..... started sorting BAM
+Jun 19 17:00:29 ..... finished successfully
+
+Jun 19 17:00:34 ..... started STAR run
+Jun 19 17:00:34 ..... loading genome
+Jun 19 17:01:15 ..... started mapping
+Jun 19 17:04:55 ..... started sorting BAM
+Jun 19 17:04:55 ..... finished successfully
+
+Jun 19 17:05:00 ..... started STAR run
+Jun 19 17:05:00 ..... loading genome
+Jun 19 17:05:40 ..... started mapping
+Jun 19 17:08:02 ..... started sorting BAM
+Jun 19 17:08:02 ..... finished successfully
+
+Jun 19 17:08:07 ..... started STAR run
+Jun 19 17:08:07 ..... loading genome
+Jun 19 17:09:07 ..... started mapping
+Jun 19 17:12:17 ..... started sorting BAM
+Jun 19 17:12:17 ..... finished successfully
+
+Jun 19 17:12:22 ..... started STAR run
+Jun 19 17:12:22 ..... loading genome
+Jun 19 17:13:03 ..... started mapping
+Jun 19 17:16:03 ..... started sorting BAM
+Jun 19 17:16:04 ..... finished successfully
+
+Jun 19 17:16:08 ..... started STAR run
+Jun 19 17:16:08 ..... loading genome
+Jun 19 17:16:50 ..... started mapping
+Jun 19 17:17:41 ..... started sorting BAM
+Jun 19 17:17:41 ..... finished successfully
+
+Jun 19 17:17:45 ..... started STAR run
+Jun 19 17:17:45 ..... loading genome
+Jun 19 17:18:25 ..... started mapping
+Jun 19 17:20:59 ..... started sorting BAM
+Jun 19 17:20:59 ..... finished successfully
+
+Jun 19 17:21:04 ..... started STAR run
+Jun 19 17:21:04 ..... loading genome
+Jun 19 17:21:46 ..... started mapping
+Jun 19 17:23:36 ..... started sorting BAM
+Jun 19 17:23:37 ..... finished successfully
+
+Jun 19 17:23:41 ..... started STAR run
+Jun 19 17:23:41 ..... loading genome
+Jun 19 17:24:22 ..... started mapping
+Jun 19 17:25:48 ..... started sorting BAM
+Jun 19 17:25:48 ..... finished successfully
+
+Jun 19 17:25:52 ..... started STAR run
+Jun 19 17:25:52 ..... loading genome
+Jun 19 17:26:34 ..... started mapping
+Jun 19 17:27:54 ..... started sorting BAM
+Jun 19 17:27:54 ..... finished successfully
+
+Jun 19 17:27:58 ..... started STAR run
+Jun 19 17:27:58 ..... loading genome
+Jun 19 17:28:40 ..... started mapping
+Jun 19 17:30:34 ..... started sorting BAM
+Jun 19 17:30:34 ..... finished successfully
+
+Jun 19 17:30:38 ..... started STAR run
+Jun 19 17:30:38 ..... loading genome
+Jun 19 17:31:20 ..... started mapping
+Jun 19 17:33:45 ..... started sorting BAM
+Jun 19 17:33:45 ..... finished successfully
+
+Jun 19 17:33:49 ..... started STAR run
+Jun 19 17:33:49 ..... loading genome
+Jun 19 17:34:34 ..... started mapping
+Jun 19 17:36:08 ..... started sorting BAM
+Jun 19 17:36:08 ..... finished successfully
+
+Jun 19 17:36:13 ..... started STAR run
+Jun 19 17:36:13 ..... loading genome
+Jun 19 17:37:02 ..... started mapping
+Jun 19 17:39:16 ..... started sorting BAM
+Jun 19 17:39:16 ..... finished successfully
+
+Jun 19 17:39:20 ..... started STAR run
+Jun 19 17:39:20 ..... loading genome
+Jun 19 17:40:14 ..... started mapping
+Jun 19 17:41:45 ..... started sorting BAM
+Jun 19 17:41:45 ..... finished successfully
+
+Jun 19 17:41:49 ..... started STAR run
+Jun 19 17:41:49 ..... loading genome
+Jun 19 17:42:31 ..... started mapping
+Jun 19 17:45:13 ..... started sorting BAM
+Jun 19 17:45:13 ..... finished successfully
+
+Jun 19 17:45:17 ..... started STAR run
+Jun 19 17:45:17 ..... loading genome
+Jun 19 17:46:17 ..... started mapping
+Jun 19 17:47:17 ..... started sorting BAM
+Jun 19 17:47:18 ..... finished successfully
+
+Jun 19 17:47:22 ..... started STAR run
+Jun 19 17:47:22 ..... loading genome
+Jun 19 17:48:23 ..... started mapping
+Jun 19 17:49:27 ..... started sorting BAM
+Jun 19 17:49:27 ..... finished successfully
+
+Jun 19 17:49:31 ..... started STAR run
+Jun 19 17:49:31 ..... loading genome
+Jun 19 17:50:14 ..... started mapping
+Jun 19 17:51:14 ..... started sorting BAM
+Jun 19 17:51:14 ..... finished successfully
+
+Jun 19 17:51:18 ..... started STAR run
+Jun 19 17:51:18 ..... loading genome
+Jun 19 17:52:00 ..... started mapping
+Jun 19 17:52:40 ..... started sorting BAM
+Jun 19 17:52:40 ..... finished successfully
+
+Jun 19 17:52:44 ..... started STAR run
+Jun 19 17:52:44 ..... loading genome
+Jun 19 17:53:26 ..... started mapping
+Jun 19 17:54:10 ..... started sorting BAM
+Jun 19 17:54:10 ..... finished successfully
+
+Jun 19 17:54:14 ..... started STAR run
+Jun 19 17:54:14 ..... loading genome
+Jun 19 17:54:57 ..... started mapping
+Jun 19 17:55:49 ..... started sorting BAM
+Jun 19 17:55:50 ..... finished successfully
+
+Jun 19 17:55:53 ..... started STAR run
+Jun 19 17:55:53 ..... loading genome
+Jun 19 17:56:36 ..... started mapping
+Jun 19 17:57:30 ..... started sorting BAM
+Jun 19 17:57:30 ..... finished successfully
+
+Jun 19 17:57:34 ..... started STAR run
+Jun 19 17:57:34 ..... loading genome
+Jun 19 17:58:17 ..... started mapping
+Jun 19 17:59:16 ..... started sorting BAM
+Jun 19 17:59:16 ..... finished successfully
+
+Jun 19 17:59:19 ..... started STAR run
+Jun 19 17:59:19 ..... loading genome
+Jun 19 18:00:02 ..... started mapping
+Jun 19 18:00:49 ..... started sorting BAM
+Jun 19 18:00:49 ..... finished successfully
+
+Jun 19 18:00:53 ..... started STAR run
+Jun 19 18:00:53 ..... loading genome
+Jun 19 18:01:35 ..... started mapping
+Jun 19 18:02:26 ..... started sorting BAM
+Jun 19 18:02:26 ..... finished successfully
+
+Jun 19 18:02:30 ..... started STAR run
+Jun 19 18:02:30 ..... loading genome
+Jun 19 18:03:12 ..... started mapping
+Jun 19 18:04:13 ..... started sorting BAM
+Jun 19 18:04:14 ..... finished successfully
+
+Jun 19 18:04:17 ..... started STAR run
+Jun 19 18:04:17 ..... loading genome
+Jun 19 18:05:00 ..... started mapping
+Jun 19 18:05:58 ..... started sorting BAM
+Jun 19 18:05:58 ..... finished successfully
+
+Jun 19 18:06:02 ..... started STAR run
+Jun 19 18:06:02 ..... loading genome
+Jun 19 18:06:45 ..... started mapping
+Jun 19 18:07:42 ..... started sorting BAM
+Jun 19 18:07:42 ..... finished successfully
+
+Jun 19 18:07:45 ..... started STAR run
+Jun 19 18:07:45 ..... loading genome
+Jun 19 18:08:28 ..... started mapping
+Jun 19 18:09:21 ..... started sorting BAM
+Jun 19 18:09:22 ..... finished successfully
+
+Jun 19 18:09:25 ..... started STAR run
+Jun 19 18:09:25 ..... loading genome
+Jun 19 18:10:08 ..... started mapping
+Jun 19 18:11:09 ..... started sorting BAM
+Jun 19 18:11:09 ..... finished successfully
+
+Jun 19 18:11:13 ..... started STAR run
+Jun 19 18:11:13 ..... loading genome
+Jun 19 18:11:55 ..... started mapping
+Jun 19 18:12:56 ..... started sorting BAM
+Jun 19 18:12:56 ..... finished successfully
+
+Jun 19 18:13:00 ..... started STAR run
+Jun 19 18:13:00 ..... loading genome
+Jun 19 18:13:43 ..... started mapping
+Jun 19 18:15:07 ..... started sorting BAM
+Jun 19 18:15:07 ..... finished successfully
+
+Jun 19 18:15:11 ..... started STAR run
+Jun 19 18:15:11 ..... loading genome
+Jun 19 18:15:54 ..... started mapping
+Jun 19 18:16:52 ..... started sorting BAM
+Jun 19 18:16:52 ..... finished successfully
+
+Jun 19 18:16:56 ..... started STAR run
+Jun 19 18:16:56 ..... loading genome
+Jun 19 18:17:39 ..... started mapping
+Jun 19 18:18:43 ..... started sorting BAM
+Jun 19 18:18:44 ..... finished successfully
+
+Jun 19 18:18:47 ..... started STAR run
+Jun 19 18:18:47 ..... loading genome
+Jun 19 18:19:28 ..... started mapping
+Jun 19 18:20:17 ..... started sorting BAM
+Jun 19 18:20:17 ..... finished successfully
+
+Jun 19 18:20:21 ..... started STAR run
+Jun 19 18:20:21 ..... loading genome
+Jun 19 18:21:21 ..... started mapping
+Jun 19 18:22:03 ..... started sorting BAM
+Jun 19 18:22:03 ..... finished successfully
+
+Jun 19 18:22:07 ..... started STAR run
+Jun 19 18:22:07 ..... loading genome
+Jun 19 18:23:28 ..... started mapping
+Jun 19 18:24:33 ..... started sorting BAM
+Jun 19 18:24:33 ..... finished successfully
+
+Jun 19 18:24:37 ..... started STAR run
+Jun 19 18:24:37 ..... loading genome
+Jun 19 18:25:20 ..... started mapping
+Jun 19 18:26:00 ..... started sorting BAM
+Jun 19 18:26:01 ..... finished successfully
+
+Jun 19 18:26:04 ..... started STAR run
+Jun 19 18:26:04 ..... loading genome
+Jun 19 18:26:47 ..... started mapping
+Jun 19 18:27:14 ..... started sorting BAM
+Jun 19 18:27:14 ..... finished successfully
+
+Jun 19 18:27:17 ..... started STAR run
+Jun 19 18:27:17 ..... loading genome
+Jun 19 18:28:00 ..... started mapping
+Jun 19 18:28:33 ..... started sorting BAM
+Jun 19 18:28:34 ..... finished successfully
+
+Jun 19 18:28:37 ..... started STAR run
+Jun 19 18:28:37 ..... loading genome
+Jun 19 18:29:20 ..... started mapping
+Jun 19 18:30:15 ..... started sorting BAM
+Jun 19 18:30:16 ..... finished successfully
+
+Jun 19 18:30:19 ..... started STAR run
+Jun 19 18:30:19 ..... loading genome
+Jun 19 18:31:02 ..... started mapping
+Jun 19 18:31:58 ..... started sorting BAM
+Jun 19 18:31:58 ..... finished successfully
+
+Jun 19 18:32:02 ..... started STAR run
+Jun 19 18:32:02 ..... loading genome
+Jun 19 18:32:45 ..... started mapping
+Jun 19 18:34:35 ..... started sorting BAM
+Jun 19 18:34:35 ..... finished successfully
+
+Jun 19 18:34:38 ..... started STAR run
+Jun 19 18:34:38 ..... loading genome
+Jun 19 18:35:21 ..... started mapping
+Jun 19 18:36:15 ..... started sorting BAM
+Jun 19 18:36:16 ..... finished successfully
+
+Jun 19 18:36:19 ..... started STAR run
+Jun 19 18:36:19 ..... loading genome
+Jun 19 18:37:02 ..... started mapping
+Jun 19 18:38:04 ..... started sorting BAM
+Jun 19 18:38:04 ..... finished successfully
+
+Jun 19 18:38:08 ..... started STAR run
+Jun 19 18:38:08 ..... loading genome
+Jun 19 18:38:50 ..... started mapping
+Jun 19 18:39:39 ..... started sorting BAM
+Jun 19 18:39:39 ..... finished successfully
+
+Jun 19 18:39:42 ..... started STAR run
+Jun 19 18:39:42 ..... loading genome
+Jun 19 18:40:26 ..... started mapping
+Jun 19 18:41:12 ..... started sorting BAM
+Jun 19 18:41:12 ..... finished successfully
+
+Jun 19 18:41:16 ..... started STAR run
+Jun 19 18:41:16 ..... loading genome
+Jun 19 18:41:59 ..... started mapping
+Jun 19 18:43:03 ..... started sorting BAM
+Jun 19 18:43:03 ..... finished successfully
+
+Jun 19 18:43:07 ..... started STAR run
+Jun 19 18:43:07 ..... loading genome
+Jun 19 18:43:50 ..... started mapping
+Jun 19 18:44:42 ..... started sorting BAM
+Jun 19 18:44:42 ..... finished successfully
+
+Jun 19 18:44:46 ..... started STAR run
+Jun 19 18:44:46 ..... loading genome
+Jun 19 18:45:47 ..... started mapping
+Jun 19 18:46:23 ..... started sorting BAM
+Jun 19 18:46:23 ..... finished successfully
+
+Jun 19 18:46:27 ..... started STAR run
+Jun 19 18:46:27 ..... loading genome
+Jun 19 18:47:10 ..... started mapping
+Jun 19 18:47:50 ..... started sorting BAM
+Jun 19 18:47:50 ..... finished successfully
+
+Jun 19 18:47:54 ..... started STAR run
+Jun 19 18:47:54 ..... loading genome
+Jun 19 18:48:37 ..... started mapping
+Jun 19 18:51:06 ..... started sorting BAM
+Jun 19 18:51:06 ..... finished successfully
+
+Jun 19 18:51:10 ..... started STAR run
+Jun 19 18:51:10 ..... loading genome
+Jun 19 18:51:59 ..... started mapping
+Jun 19 18:54:35 ..... started sorting BAM
+Jun 19 18:54:36 ..... finished successfully
+
+Jun 19 18:54:40 ..... started STAR run
+Jun 19 18:54:40 ..... loading genome
+Jun 19 18:55:23 ..... started mapping
+Jun 19 18:56:08 ..... started sorting BAM
+Jun 19 18:56:08 ..... finished successfully
+
+Jun 19 18:56:12 ..... started STAR run
+Jun 19 18:56:12 ..... loading genome
+Jun 19 18:56:55 ..... started mapping
+Jun 19 18:58:28 ..... started sorting BAM
+Jun 19 18:58:29 ..... finished successfully
+
+Jun 19 18:58:32 ..... started STAR run
+Jun 19 18:58:32 ..... loading genome
+Jun 19 18:59:15 ..... started mapping
+Jun 19 19:00:19 ..... started sorting BAM
+Jun 19 19:00:19 ..... finished successfully
+
+Jun 19 19:00:23 ..... started STAR run
+Jun 19 19:00:23 ..... loading genome
+Jun 19 19:01:06 ..... started mapping
+Jun 19 19:02:22 ..... started sorting BAM
+Jun 19 19:02:22 ..... finished successfully
+
+Jun 19 19:02:26 ..... started STAR run
+Jun 19 19:02:26 ..... loading genome
+Jun 19 19:03:18 ..... started mapping
+Jun 19 19:03:45 ..... started sorting BAM
+Jun 19 19:03:45 ..... finished successfully
+
+Jun 19 19:03:48 ..... started STAR run
+Jun 19 19:03:49 ..... loading genome
+Jun 19 19:04:31 ..... started mapping
+Jun 19 19:05:08 ..... started sorting BAM
+Jun 19 19:05:08 ..... finished successfully
+
+Jun 19 19:05:11 ..... started STAR run
+Jun 19 19:05:11 ..... loading genome
+Jun 19 19:05:54 ..... started mapping
+Jun 19 19:07:27 ..... started sorting BAM
+Jun 19 19:07:27 ..... finished successfully
+
+Jun 19 19:07:31 ..... started STAR run
+Jun 19 19:07:31 ..... loading genome
+Jun 19 19:08:14 ..... started mapping
+Jun 19 19:09:46 ..... started sorting BAM
+Jun 19 19:09:47 ..... finished successfully
+
+Jun 19 19:09:51 ..... started STAR run
+Jun 19 19:09:51 ..... loading genome
+Jun 19 19:10:34 ..... started mapping
+Jun 19 19:11:24 ..... started sorting BAM
+Jun 19 19:11:24 ..... finished successfully
+
+Jun 19 19:11:27 ..... started STAR run
+Jun 19 19:11:27 ..... loading genome
+Jun 19 19:12:10 ..... started mapping
+Jun 19 19:12:59 ..... started sorting BAM
+Jun 19 19:12:59 ..... finished successfully
+
+Jun 19 19:13:03 ..... started STAR run
+Jun 19 19:13:03 ..... loading genome
+Jun 19 19:13:46 ..... started mapping
+Jun 19 19:14:44 ..... started sorting BAM
+Jun 19 19:14:44 ..... finished successfully
+
+Jun 19 19:14:48 ..... started STAR run
+Jun 19 19:14:48 ..... loading genome
+Jun 19 19:15:36 ..... started mapping
+Jun 19 19:16:18 ..... started sorting BAM
+Jun 19 19:16:18 ..... finished successfully
+
+Jun 19 19:16:21 ..... started STAR run
+Jun 19 19:16:21 ..... loading genome
+Jun 19 19:17:05 ..... started mapping
+Jun 19 19:18:06 ..... started sorting BAM
+Jun 19 19:18:07 ..... finished successfully
+
+Jun 19 19:18:11 ..... started STAR run
+Jun 19 19:18:11 ..... loading genome
+Jun 19 19:18:56 ..... started mapping
+Jun 19 19:19:24 ..... started sorting BAM
+Jun 19 19:19:24 ..... finished successfully
+
+Jun 19 19:19:28 ..... started STAR run
+Jun 19 19:19:28 ..... loading genome
+Jun 19 19:20:11 ..... started mapping
+Jun 19 19:21:04 ..... started sorting BAM
+Jun 19 19:21:04 ..... finished successfully
+
+Jun 19 19:21:08 ..... started STAR run
+Jun 19 19:21:08 ..... loading genome
+Jun 19 19:21:51 ..... started mapping
+Jun 19 19:24:30 ..... started sorting BAM
+Jun 19 19:24:30 ..... finished successfully
+
+Jun 19 19:24:35 ..... started STAR run
+Jun 19 19:24:35 ..... loading genome
+Jun 19 19:25:16 ..... started mapping
+Jun 19 19:26:02 ..... started sorting BAM
+Jun 19 19:26:02 ..... finished successfully
+
+[W::sam_hdr_read] bgzf_check_EOF: Invalid argument
+[E::bam_hdr_read] invalid BAM binary header
+/tmp/tmp_8zad9v0: line 3: 28176 Segmentation fault      STAR --runThreadN 20 --genomeDir /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex --readFilesCommand zcat --readFilesIn /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat/IZSPB-126_S16__concat.fastq.gz --alignEndsType EndToEnd --outSAMattributes Standard --outFilterMismatchNoverReadLmax 0.04 --outReadsUnmapped Fastx --outSAMprimaryFlag AllBestScore --outFilterType BySJout --outSAMtype BAM SortedByCoordinate --chimOutType WithinBAM HardClip --alignSJoverhangMin 6 --alignSJDBoverhangMin 6 --sjdbOverhang 65 --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat_STAR_mapping_result/IZSPB-126_S16__concat
+
+ERROR conda.cli.main_run:execute(47): `conda run STAR --runThreadN 20 --genomeDir /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex --readFilesCommand zcat --readFilesIn /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat/IZSPB-126_S16__concat.fastq.gz --alignEndsType EndToEnd --outSAMattributes Standard --outFilterMismatchNoverReadLmax 0.04 --outReadsUnmapped Fastx --outSAMprimaryFlag AllBestScore --outFilterType BySJout --outSAMtype BAM SortedByCoordinate --chimOutType WithinBAM HardClip --alignSJoverhangMin 6 --alignSJDBoverhangMin 6 --sjdbOverhang 65 --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat_STAR_mapping_result/IZSPB-126_S16__concat` failed. (See above for error)
+Jun 19 19:26:06 ..... started STAR run
+Jun 19 19:26:06 ..... loading genome
+Jun 19 19:26:49 ..... started mapping
+Jun 19 19:27:58 ..... started sorting BAM
+
+
+EXITING because of FATAL ERROR: number of bytes expected from the BAM bin does not agree with the actual size on disk: 2822   0   0
+
+Jun 19 19:30:30 ...... FATAL ERROR, exiting
+
+EXITING because of FATAL ERROR: number of bytes expected from the BAM bin does not agree with the actual size on disk: 3439   0   16
+
+Jun 19 19:30:30 ...... FATAL ERROR, exiting
+
+ERROR conda.cli.main_run:execute(47): `conda run STAR --runThreadN 20 --genomeDir /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex --readFilesCommand zcat --readFilesIn /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat/IZSPB-131_S22__concat.fastq.gz --alignEndsType EndToEnd --outSAMattributes Standard --outFilterMismatchNoverReadLmax 0.04 --outReadsUnmapped Fastx --outSAMprimaryFlag AllBestScore --outFilterType BySJout --outSAMtype BAM SortedByCoordinate --chimOutType WithinBAM HardClip --alignSJoverhangMin 6 --alignSJDBoverhangMin 6 --sjdbOverhang 65 --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2Tv3/fastq_5_concat_STAR_mapping_result/IZSPB-131_S22__concat` failed. (See above for error)
+Jun 19 19:28:01 ..... started STAR run
+Jun 19 19:28:01 ..... loading genome
+Jun 19 19:28:44 ..... started mapping
+Jun 19 19:30:30 ..... started sorting BAM
+
