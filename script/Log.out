@@ -1,0 +1,423 @@
+STAR version=STAR_2.5.2b
+STAR compilation time,server,dir=Thu Aug 18 17:20:47 EDT 2016 florence.cshl.edu:/sonas-hs/gingeras/nlsas_norepl/user/dobin/STAR/STAR.sandbox/source
+##### DEFAULT parameters:
+versionSTAR                       20201
+versionGenome                     20101   20200   
+parametersFiles                   -   
+sysShell                          -
+runMode                           alignReads
+runThreadN                        1
+runDirPerm                        User_RWX
+runRNGseed                        777
+genomeDir                         ./GenomeDir/
+genomeLoad                        NoSharedMemory
+genomeFastaFiles                  -   
+genomeSAindexNbases               14
+genomeChrBinNbits                 18
+genomeSAsparseD                   1
+genomeSuffixLengthMax             18446744073709551615
+readFilesIn                       Read1   Read2   
+readFilesCommand                  -   
+readMatesLengthsIn                NotEqual
+readMapNumber                     18446744073709551615
+readNameSeparator                 /   
+inputBAMfile                      -
+bamRemoveDuplicatesType           -
+bamRemoveDuplicatesMate2basesN    0
+limitGenomeGenerateRAM            31000000000
+limitIObufferSize                 150000000
+limitOutSAMoneReadBytes           100000
+limitOutSJcollapsed               1000000
+limitOutSJoneRead                 1000
+limitBAMsortRAM                   0
+limitSjdbInsertNsj                1000000
+outFileNamePrefix                 ./
+outTmpDir                         -
+outTmpKeep                        None
+outStd                            Log
+outReadsUnmapped                  None
+outQSconversionAdd                0
+outMultimapperOrder               Old_2.4
+outSAMtype                        SAM   
+outSAMmode                        Full
+outSAMstrandField                 None
+outSAMattributes                  Standard   
+outSAMunmapped                    None   
+outSAMorder                       Paired
+outSAMprimaryFlag                 OneBestScore
+outSAMreadID                      Standard
+outSAMmapqUnique                  255
+outSAMflagOR                      0
+outSAMflagAND                     65535
+outSAMattrRGline                  -   
+outSAMheaderHD                    -   
+outSAMheaderPG                    -   
+outSAMheaderCommentFile           -
+outBAMcompression                 1
+outBAMsortingThreadN              0
+outSAMfilter                      None   
+outSAMmultNmax                    18446744073709551615
+outSAMattrIHstart                 1
+outSJfilterReads                  All
+outSJfilterCountUniqueMin         3   1   1   1   
+outSJfilterCountTotalMin          3   1   1   1   
+outSJfilterOverhangMin            30   12   12   12   
+outSJfilterDistToOtherSJmin       10   0   5   10   
+outSJfilterIntronMaxVsReadN       50000   100000   200000   
+outWigType                        None   
+outWigStrand                      Stranded   
+outWigReferencesPrefix            -
+outWigNorm                        RPM   
+outFilterType                     Normal
+outFilterMultimapNmax             10
+outFilterMultimapScoreRange       1
+outFilterScoreMin                 0
+outFilterScoreMinOverLread        0.66
+outFilterMatchNmin                0
+outFilterMatchNminOverLread       0.66
+outFilterMismatchNmax             10
+outFilterMismatchNoverLmax        0.3
+outFilterMismatchNoverReadLmax    1
+outFilterIntronMotifs             None
+clip5pNbases                      0   
+clip3pNbases                      0   
+clip3pAfterAdapterNbases          0   
+clip3pAdapterSeq                  -   
+clip3pAdapterMMp                  0.1   
+winBinNbits                       16
+winAnchorDistNbins                9
+winFlankNbins                     4
+winAnchorMultimapNmax             50
+winReadCoverageRelativeMin        0.5
+winReadCoverageBasesMin           0
+scoreGap                          0
+scoreGapNoncan                    -8
+scoreGapGCAG                      -4
+scoreGapATAC                      -8
+scoreStitchSJshift                1
+scoreGenomicLengthLog2scale       -0.25
+scoreDelBase                      -2
+scoreDelOpen                      -2
+scoreInsOpen                      -2
+scoreInsBase                      -2
+seedSearchLmax                    0
+seedSearchStartLmax               50
+seedSearchStartLmaxOverLread      1
+seedPerReadNmax                   1000
+seedPerWindowNmax                 50
+seedNoneLociPerWindow             10
+seedMultimapNmax                  10000
+alignIntronMin                    21
+alignIntronMax                    0
+alignMatesGapMax                  0
+alignTranscriptsPerReadNmax       10000
+alignSJoverhangMin                5
+alignSJDBoverhangMin              3
+alignSJstitchMismatchNmax         0   -1   0   0   
+alignSplicedMateMapLmin           0
+alignSplicedMateMapLminOverLmate    0.66
+alignWindowsPerReadNmax           10000
+alignTranscriptsPerWindowNmax     100
+alignEndsType                     Local
+alignSoftClipAtReferenceEnds      Yes
+alignEndsProtrude                 0   ConcordantPair   
+chimSegmentMin                    0
+chimScoreMin                      0
+chimScoreDropMax                  20
+chimScoreSeparation               10
+chimScoreJunctionNonGTAG          -1
+chimJunctionOverhangMin           20
+chimOutType                       SeparateSAMold
+chimFilter                        banGenomicN   
+chimSegmentReadGapMax             0
+sjdbFileChrStartEnd               -   
+sjdbGTFfile                       -
+sjdbGTFchrPrefix                  -
+sjdbGTFfeatureExon                exon
+sjdbGTFtagExonParentTranscript    transcript_id
+sjdbGTFtagExonParentGene          gene_id
+sjdbOverhang                      100
+sjdbScore                         2
+sjdbInsertSave                    Basic
+quantMode                         -   
+quantTranscriptomeBAMcompression    1
+quantTranscriptomeBan             IndelSoftclipSingleend
+twopass1readsN                    18446744073709551615
+twopassMode                       None
+##### Command Line:
+STAR --runThreadN 8 --runMode genomeGenerate --genomeDir /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex --genomeFastaFiles /home/aazzolini/gdebiase/hs_T2T/hs1.fa --sjdbGTFfile /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf --sjdbOverhang 65
+##### Initial USER parameters from Command Line:
+###### All USER parameters from Command Line:
+runThreadN                    8     ~RE-DEFINED
+runMode                       genomeGenerate     ~RE-DEFINED
+genomeDir                     /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex     ~RE-DEFINED
+genomeFastaFiles              /home/aazzolini/gdebiase/hs_T2T/hs1.fa        ~RE-DEFINED
+sjdbGTFfile                   /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf     ~RE-DEFINED
+sjdbOverhang                  65     ~RE-DEFINED
+##### Finished reading parameters from all sources
+
+##### Final user re-defined parameters-----------------:
+runMode                           genomeGenerate
+runThreadN                        8
+genomeDir                         /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex
+genomeFastaFiles                  /home/aazzolini/gdebiase/hs_T2T/hs1.fa   
+sjdbGTFfile                       /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf
+sjdbOverhang                      65
+
+-------------------------------
+##### Final effective command line:
+STAR   --runMode genomeGenerate   --runThreadN 8   --genomeDir /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex   --genomeFastaFiles /home/aazzolini/gdebiase/hs_T2T/hs1.fa      --sjdbGTFfile /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf   --sjdbOverhang 65
+
+##### Final parameters after user input--------------------------------:
+versionSTAR                       20201
+versionGenome                     20101   20200   
+parametersFiles                   -   
+sysShell                          -
+runMode                           genomeGenerate
+runThreadN                        8
+runDirPerm                        User_RWX
+runRNGseed                        777
+genomeDir                         /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex
+genomeLoad                        NoSharedMemory
+genomeFastaFiles                  /home/aazzolini/gdebiase/hs_T2T/hs1.fa   
+genomeSAindexNbases               14
+genomeChrBinNbits                 18
+genomeSAsparseD                   1
+genomeSuffixLengthMax             18446744073709551615
+readFilesIn                       Read1   Read2   
+readFilesCommand                  -   
+readMatesLengthsIn                NotEqual
+readMapNumber                     18446744073709551615
+readNameSeparator                 /   
+inputBAMfile                      -
+bamRemoveDuplicatesType           -
+bamRemoveDuplicatesMate2basesN    0
+limitGenomeGenerateRAM            31000000000
+limitIObufferSize                 150000000
+limitOutSAMoneReadBytes           100000
+limitOutSJcollapsed               1000000
+limitOutSJoneRead                 1000
+limitBAMsortRAM                   0
+limitSjdbInsertNsj                1000000
+outFileNamePrefix                 ./
+outTmpDir                         -
+outTmpKeep                        None
+outStd                            Log
+outReadsUnmapped                  None
+outQSconversionAdd                0
+outMultimapperOrder               Old_2.4
+outSAMtype                        SAM   
+outSAMmode                        Full
+outSAMstrandField                 None
+outSAMattributes                  Standard   
+outSAMunmapped                    None   
+outSAMorder                       Paired
+outSAMprimaryFlag                 OneBestScore
+outSAMreadID                      Standard
+outSAMmapqUnique                  255
+outSAMflagOR                      0
+outSAMflagAND                     65535
+outSAMattrRGline                  -   
+outSAMheaderHD                    -   
+outSAMheaderPG                    -   
+outSAMheaderCommentFile           -
+outBAMcompression                 1
+outBAMsortingThreadN              0
+outSAMfilter                      None   
+outSAMmultNmax                    18446744073709551615
+outSAMattrIHstart                 1
+outSJfilterReads                  All
+outSJfilterCountUniqueMin         3   1   1   1   
+outSJfilterCountTotalMin          3   1   1   1   
+outSJfilterOverhangMin            30   12   12   12   
+outSJfilterDistToOtherSJmin       10   0   5   10   
+outSJfilterIntronMaxVsReadN       50000   100000   200000   
+outWigType                        None   
+outWigStrand                      Stranded   
+outWigReferencesPrefix            -
+outWigNorm                        RPM   
+outFilterType                     Normal
+outFilterMultimapNmax             10
+outFilterMultimapScoreRange       1
+outFilterScoreMin                 0
+outFilterScoreMinOverLread        0.66
+outFilterMatchNmin                0
+outFilterMatchNminOverLread       0.66
+outFilterMismatchNmax             10
+outFilterMismatchNoverLmax        0.3
+outFilterMismatchNoverReadLmax    1
+outFilterIntronMotifs             None
+clip5pNbases                      0   
+clip3pNbases                      0   
+clip3pAfterAdapterNbases          0   
+clip3pAdapterSeq                  -   
+clip3pAdapterMMp                  0.1   
+winBinNbits                       16
+winAnchorDistNbins                9
+winFlankNbins                     4
+winAnchorMultimapNmax             50
+winReadCoverageRelativeMin        0.5
+winReadCoverageBasesMin           0
+scoreGap                          0
+scoreGapNoncan                    -8
+scoreGapGCAG                      -4
+scoreGapATAC                      -8
+scoreStitchSJshift                1
+scoreGenomicLengthLog2scale       -0.25
+scoreDelBase                      -2
+scoreDelOpen                      -2
+scoreInsOpen                      -2
+scoreInsBase                      -2
+seedSearchLmax                    0
+seedSearchStartLmax               50
+seedSearchStartLmaxOverLread      1
+seedPerReadNmax                   1000
+seedPerWindowNmax                 50
+seedNoneLociPerWindow             10
+seedMultimapNmax                  10000
+alignIntronMin                    21
+alignIntronMax                    0
+alignMatesGapMax                  0
+alignTranscriptsPerReadNmax       10000
+alignSJoverhangMin                5
+alignSJDBoverhangMin              3
+alignSJstitchMismatchNmax         0   -1   0   0   
+alignSplicedMateMapLmin           0
+alignSplicedMateMapLminOverLmate    0.66
+alignWindowsPerReadNmax           10000
+alignTranscriptsPerWindowNmax     100
+alignEndsType                     Local
+alignSoftClipAtReferenceEnds      Yes
+alignEndsProtrude                 0   ConcordantPair   
+chimSegmentMin                    0
+chimScoreMin                      0
+chimScoreDropMax                  20
+chimScoreSeparation               10
+chimScoreJunctionNonGTAG          -1
+chimJunctionOverhangMin           20
+chimOutType                       SeparateSAMold
+chimFilter                        banGenomicN   
+chimSegmentReadGapMax             0
+sjdbFileChrStartEnd               -   
+sjdbGTFfile                       /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf
+sjdbGTFchrPrefix                  -
+sjdbGTFfeatureExon                exon
+sjdbGTFtagExonParentTranscript    transcript_id
+sjdbGTFtagExonParentGene          gene_id
+sjdbOverhang                      65
+sjdbScore                         2
+sjdbInsertSave                    Basic
+quantMode                         -   
+quantTranscriptomeBAMcompression    1
+quantTranscriptomeBan             IndelSoftclipSingleend
+twopass1readsN                    18446744073709551615
+twopassMode                       None
+----------------------------------------
+
+Finished loading and checking parameters
+Jun 12 09:18:52 ... starting to generate Genome files
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 0  "chr1" chrStart: 0
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 1  "chr2" chrStart: 248512512
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 2  "chr3" chrStart: 491257856
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 3  "chr4" chrStart: 692584448
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 4  "chr5" chrStart: 886308864
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 5  "chr6" chrStart: 1068498944
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 6  "chr7" chrStart: 1240727552
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 7  "chrX" chrStart: 1401421824
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 8  "chr9" chrStart: 1555824640
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 9  "chr8" chrStart: 1706557440
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 10  "chr11" chrStart: 1852833792
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 11  "chr10" chrStart: 1988100096
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 12  "chr12" chrStart: 2123104256
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 13  "chr13" chrStart: 2256535552
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 14  "chr14" chrStart: 2370306048
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 15  "chr15" chrStart: 2471493632
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 16  "chr16" chrStart: 2571370496
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 17  "chr17" chrStart: 2667839488
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 18  "chr18" chrStart: 2752249856
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 19  "chr20" chrStart: 2832990208
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 20  "chrY" chrStart: 2899312640
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 21  "chr19" chrStart: 2961965056
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 22  "chr22" chrStart: 3023831040
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 23  "chr21" chrStart: 3075211264
+/home/aazzolini/gdebiase/hs_T2T/hs1.fa : chr # 24  "chrM" chrStart: 3120562176
+Number of SA indices: 6234584140
+Jun 12 09:20:21 ... starting to sort Suffix Array. This may take a long time...
+Number of chunks: 30;   chunks size limit: 1856874848 bytes
+Jun 12 09:20:50 ... sorting Suffix Array chunks and saving them to disk...
+Writing 1380425248 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_0 ; empty space on disk = 327175417856 bytes ... done
+Writing 1753318840 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_6 ; empty space on disk = 325788504064 bytes ... done
+Writing 1778428408 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_2 ; empty space on disk = 324027265024 bytes ... done
+Writing 1698872520 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_7 ; empty space on disk = 322243964928 bytes ... done
+Writing 1720338496 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_1 ; empty space on disk = 320536596480 bytes ... done
+Writing 1855717824 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_5 ; empty space on disk = 318816100352 bytes ... done
+Writing 1846023904 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_3 ; empty space on disk = 316970803200 bytes ... done
+Writing 1722694264 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_4 ; empty space on disk = 315117637632 bytes ... done
+Writing 1746165488 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_8 ; empty space on disk = 313420128256 bytes ... done
+Writing 1600913952 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_10 ; empty space on disk = 311316029440 bytes ... done
+Writing 1716082128 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_9 ; empty space on disk = 309715107840 bytes ... done
+Writing 1726697272 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_14 ; empty space on disk = 307999019008 bytes ... done
+Writing 1805155712 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_13 ; empty space on disk = 306272317440 bytes ... done
+Writing 1757553760 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_15 ; empty space on disk = 304467156992 bytes ... done
+Writing 1679748552 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_11 ; empty space on disk = 302709596160 bytes ... done
+Writing 1851350152 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_16 ; empty space on disk = 301029842944 bytes ... done
+Writing 1660836808 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_12 ; empty space on disk = 299178487808 bytes ... done
+Writing 1747870152 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_17 ; empty space on disk = 297517645824 bytes ... done
+Writing 1836839792 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_18 ; empty space on disk = 295769767936 bytes ... done
+Writing 1488902352 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_21 ; empty space on disk = 293932920832 bytes ... done
+Writing 1683571528 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_24 ; empty space on disk = 292444012544 bytes ... done
+Writing 1657920680 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_22 ; empty space on disk = 290753765376 bytes ... done
+Writing 1781706904 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_19 ; empty space on disk = 289102508032 bytes ... done
+Writing 1811197872 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_20 ; empty space on disk = 287320793088 bytes ... done
+Writing 1648556944 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_25 ; empty space on disk = 285509591040 bytes ... done
+Writing 740961616 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_29 ; empty space on disk = 283859185664 bytes ... done
+Writing 1614854480 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_26 ; empty space on disk = 283117105152 bytes ... done
+Writing 1132092216 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_28 ; empty space on disk = 281390682112 bytes ... done
+Writing 1744876888 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_23 ; empty space on disk = 280288124928 bytes ... done
+Writing 1686998368 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA_27 ; empty space on disk = 278543241216 bytes ... done
+Jun 12 10:49:22 ... loading chunks from disk, packing SA...
+Jun 12 10:51:33 ... finished generating suffix array
+Jun 12 10:51:33 ... generating Suffix Array index
+Jun 12 10:58:22 ... completed Suffix Array index
+Jun 12 10:58:22 ..... processing annotations GTF
+WARNING: while processing sjdbGTFfile=/home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf: overlapping or touching exons:
+chr7	95899213	95900392
+chr7	95900393	95905573
+WARNING: while processing sjdbGTFfile=/home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf: overlapping or touching exons:
+chr7	95899213	95900392
+chr7	95900393	95905573
+WARNING: while processing sjdbGTFfile=/home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf: overlapping or touching exons:
+chr7	95899213	95900392
+chr7	95900393	95905573
+Processing sjdbGTFfile=/home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf, found:
+		194234 transcripts
+		2136623 exons (non-collapsed)
+		347593 collapsed junctions
+Jun 12 10:58:47 ..... finished GTF processing
+Jun 12 10:58:48   Loaded database junctions from the GTF file: /home/aazzolini/gdebiase/hs_T2T/hs1.ncbiRefSeq.gtf: 347593 total junctions
+
+WARNING: long repeat for junction # 99076 : chr5 70944603 70945751; left shift = 255; right shift = 10
+WARNING: long repeat for junction # 99194 : chr5 71673948 71674760; left shift = 255; right shift = 1
+WARNING: long repeat for junction # 137089 : chr7 102300305 102303553; left shift = 255; right shift = 255
+WARNING: long repeat for junction # 143070 : chr7 156260489 156264564; left shift = 3; right shift = 255
+WARNING: long repeat for junction # 199228 : chr11 134417356 134417425; left shift = 2; right shift = 255
+WARNING: long repeat for junction # 231015 : chr12 122697613 122711039; left shift = 3; right shift = 255
+WARNING: long repeat for junction # 340916 : chr22 38185130 38185423; left shift = 19; right shift = 255
+Jun 12 10:58:49   Finished preparing junctions
+Jun 12 10:58:49 ..... inserting junctions into the genome indices
+Jun 12 11:01:25   Finished SA search: number of new junctions=347576, old junctions=0
+Jun 12 11:02:30   Finished sorting SA indicesL nInd=90369760
+Jun 12 11:04:23   Finished inserting junction indices
+Jun 12 11:04:55   Finished SAi
+Jun 12 11:04:56 ..... finished inserting junctions into genome
+Jun 12 11:04:56 ... writing Genome to disk ...
+Writing 3166356776 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/Genome ; empty space on disk = 326204620800 bytes ... done
+SA size in bytes: 26090434841
+Jun 12 11:05:00 ... writing Suffix Array to disk ...
+Writing 26090434841 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SA ; empty space on disk = 323025731584 bytes ... done
+Jun 12 11:05:39 ... writing SAindex to disk
+Writing 8 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SAindex ; empty space on disk = 296924803072 bytes ... done
+Writing 120 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SAindex ; empty space on disk = 296924803072 bytes ... done
+Writing 1565873491 bytes into /home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex/SAindex ; empty space on disk = 296924803072 bytes ... done
+Jun 12 11:05:46 ..... finished successfully
+DONE: Genome generation, EXITING

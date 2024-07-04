@@ -1,0 +1,56 @@
+PER ENTRARE NELL'ACCOUNT DI AZZOLINI
+ssh -i .ssh/gdebiase aazzolini@srv04.recas.ba.infn.it
+
+ls rawdata/fastq_1 | wc -l
+questa coppia di comandi prende l'output di ls rawdata/fastq_1 (lista di seq fastq)
+e la dà in pasto (tramite pip) al comando wc -l (comando che ti ritorna il numero
+di righe di un file)
+quindi ls rawdata/fastq_1 ha all'interno (es.) tot numero di seq e wc -l ti 
+ritorna il numero di questi file
+
+conda env list
+mostra la lista degli ambienti
+
+conda activate nomeambiente
+attiva l'ambiente nomeambiente
+
+conda list
+vedi i pacchetti/tool all'interno dell'ambiente
+
+conda deactivate
+disattiva l'ambiente virtuale
+
+conda create -n nomeambiente nometool(o pacchetto) -c bioconda
+con conda creo l'ambiente nomeambiente e selezionando il canale con -c bioconda
+(quindi usando bioconda come canale) installa nome tool
+es. conda create -n qc fastqc -c bioconda
+creo ambiente chiamato qc e, tramite canale bioconda, installo fastqc
+
+conda list | grep fastqc
+con questo comando nella lista dei tool del mio ambiente virtuale trovo (con grep) 
+se è presente fastqc
+l'output è la riga (non il numero) dove è indicato nome del ool version ecc.
+
+conda search nometool
+cerca tramite conda il nome del tool, conda è il canale
+
+nohup fastqc -noextract /home/aazzolini/rawdata/fastq_6/*.fastq.gz -o fastqc_output_6/ > fastqc_output_6.log &
+per i comandi in background nohup comando > file.log &
+poi usa top per vedere i comandi lanciati dai vari user
+u nomeutente per vedere i comandi di nomeutente
+c per vedere i comandi
+
+for sample in $(ls|cut -f1,2 -d'_'|sort|uniq);do echo $sample;expr $(zcat ${sample}_S*_R1_001.fastq.gz|wc -l) 
+/ 4;done
+
+seqkit stats ../rawdata/fastq_1/Lib*R1*.fastq.gz
+
+SOLO APPUNTO PROB NON FUNZIONA
+
+realpath cartella
+ti dà il path assoluto della cartella
+
+per eseguire uno script bash prima di tutto devi dargli il permesso per essere eseguito, per fare questo:
+chmod +x
+poi per eseguirlo
+./nomescript (se non è nella cartella bin)
