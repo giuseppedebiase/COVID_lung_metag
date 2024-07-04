@@ -18,7 +18,7 @@ for run in $(ls /home/aazzolini/gdebiase/hs_T2Tv3 | grep STAR); do
         --chimOutType WithinBAM HardClip \
         --alignSJoverhangMin 6 \
         --alignSJDBoverhangMin 6 \
-	    --sjdbOverhang 65 \
+	--sjdbOverhang 65 \
         --outFileNamePrefix /home/aazzolini/gdebiase/sarscov2/${run}/${seq}
     done
 done
