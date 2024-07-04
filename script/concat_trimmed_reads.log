@@ -1,0 +1,675 @@
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_10_S9_R1_trimmed.fastq.gz
+[INFO][0m 6115190 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_10_S9_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_10_S9_R2_trimmed.fastq.gz
+[INFO][0m 6115190 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_10_S9_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_11_S10_R1_trimmed.fastq.gz
+[INFO][0m 5612821 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_11_S10_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_11_S10_R2_trimmed.fastq.gz
+[INFO][0m 5612821 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_11_S10_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_12_S11_R1_trimmed.fastq.gz
+[INFO][0m 6089528 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_12_S11_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_12_S11_R2_trimmed.fastq.gz
+[INFO][0m 6089528 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_12_S11_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_1_S1_R1_trimmed.fastq.gz
+[INFO][0m 4731168 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_1_S1_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_1_S1_R2_trimmed.fastq.gz
+[INFO][0m 4731168 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_1_S1_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_2_S2_R1_trimmed.fastq.gz
+[INFO][0m 7235967 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_2_S2_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_2_S2_R2_trimmed.fastq.gz
+[INFO][0m 7235967 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_2_S2_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_3_S3_R1_trimmed.fastq.gz
+[INFO][0m 6516566 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_3_S3_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_3_S3_R2_trimmed.fastq.gz
+[INFO][0m 6516566 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_3_S3_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_4_S4_R1_trimmed.fastq.gz
+[INFO][0m 7677552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_4_S4_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_4_S4_R2_trimmed.fastq.gz
+[INFO][0m 7677552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_4_S4_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_5_S5_R1_trimmed.fastq.gz
+[INFO][0m 4769666 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_5_S5_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_5_S5_R2_trimmed.fastq.gz
+[INFO][0m 4769666 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_5_S5_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_6_S6_R1_trimmed.fastq.gz
+[INFO][0m 6504036 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_6_S6_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_6_S6_R2_trimmed.fastq.gz
+[INFO][0m 6504036 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_6_S6_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_7_S7_R1_trimmed.fastq.gz
+[INFO][0m 6070598 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_7_S7_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_7_S7_R2_trimmed.fastq.gz
+[INFO][0m 6070598 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_7_S7_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_8_S8_R1_trimmed.fastq.gz
+[INFO][0m 4267755 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_8_S8_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_8_S8_R2_trimmed.fastq.gz
+[INFO][0m 4267755 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_1/Lib_8_S8_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_10_S1_R1_trimmed.fastq.gz
+[INFO][0m 4661067 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_10_S1_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_10_S1_R2_trimmed.fastq.gz
+[INFO][0m 4661067 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_10_S1_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_11_S2_R1_trimmed.fastq.gz
+[INFO][0m 3747390 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_11_S2_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_11_S2_R2_trimmed.fastq.gz
+[INFO][0m 3747390 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_11_S2_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_12_S3_R1_trimmed.fastq.gz
+[INFO][0m 3386519 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_12_S3_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_12_S3_R2_trimmed.fastq.gz
+[INFO][0m 3386519 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_12_S3_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_13_S4_R1_trimmed.fastq.gz
+[INFO][0m 3806920 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_13_S4_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_13_S4_R2_trimmed.fastq.gz
+[INFO][0m 3806920 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_13_S4_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_14_S5_R1_trimmed.fastq.gz
+[INFO][0m 3129766 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_14_S5_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_14_S5_R2_trimmed.fastq.gz
+[INFO][0m 3129766 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_14_S5_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_15_S6_R1_trimmed.fastq.gz
+[INFO][0m 4637847 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_15_S6_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_15_S6_R2_trimmed.fastq.gz
+[INFO][0m 4637847 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_15_S6_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_16_S7_R1_trimmed.fastq.gz
+[INFO][0m 3221373 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_16_S7_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_16_S7_R2_trimmed.fastq.gz
+[INFO][0m 3221373 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_16_S7_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_18_S8_R1_trimmed.fastq.gz
+[INFO][0m 3983285 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_18_S8_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_18_S8_R2_trimmed.fastq.gz
+[INFO][0m 3983285 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_18_S8_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_19_S9_R1_trimmed.fastq.gz
+[INFO][0m 2108554 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_19_S9_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_19_S9_R2_trimmed.fastq.gz
+[INFO][0m 2108554 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_19_S9_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_20_S10_R1_trimmed.fastq.gz
+[INFO][0m 5461031 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_20_S10_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_20_S10_R2_trimmed.fastq.gz
+[INFO][0m 5461031 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_2/Lib_20_S10_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_13_S3_R1_trimmed.fastq.gz
+[INFO][0m 1183684 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_13_S3_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_13_S3_R2_trimmed.fastq.gz
+[INFO][0m 1183684 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_13_S3_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_17_S4_R1_trimmed.fastq.gz
+[INFO][0m 1474859 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_17_S4_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_17_S4_R2_trimmed.fastq.gz
+[INFO][0m 1474859 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_17_S4_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_21_S5_R1_trimmed.fastq.gz
+[INFO][0m 918317 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_21_S5_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_21_S5_R2_trimmed.fastq.gz
+[INFO][0m 918317 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_21_S5_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_29_S6_R1_trimmed.fastq.gz
+[INFO][0m 508391 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_29_S6_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_29_S6_R2_trimmed.fastq.gz
+[INFO][0m 508391 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_29_S6_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_33_S7_R1_trimmed.fastq.gz
+[INFO][0m 709969 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_33_S7_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_33_S7_R2_trimmed.fastq.gz
+[INFO][0m 709969 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_33_S7_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_35_S8_R1_trimmed.fastq.gz
+[INFO][0m 906637 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_35_S8_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_35_S8_R2_trimmed.fastq.gz
+[INFO][0m 906637 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_35_S8_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_36_S9_R1_trimmed.fastq.gz
+[INFO][0m 673431 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_36_S9_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_36_S9_R2_trimmed.fastq.gz
+[INFO][0m 673431 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_36_S9_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_37_S10_R1_trimmed.fastq.gz
+[INFO][0m 1014776 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_37_S10_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_37_S10_R2_trimmed.fastq.gz
+[INFO][0m 1014776 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_37_S10_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_42_S11_R1_trimmed.fastq.gz
+[INFO][0m 743583 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_42_S11_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_42_S11_R2_trimmed.fastq.gz
+[INFO][0m 743583 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_42_S11_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_47_S12_R1_trimmed.fastq.gz
+[INFO][0m 597723 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_47_S12_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_47_S12_R2_trimmed.fastq.gz
+[INFO][0m 597723 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_47_S12_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_48_S13_R1_trimmed.fastq.gz
+[INFO][0m 775552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_48_S13_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_48_S13_R2_trimmed.fastq.gz
+[INFO][0m 775552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_48_S13_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_49_S14_R1_trimmed.fastq.gz
+[INFO][0m 729201 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_49_S14_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_49_S14_R2_trimmed.fastq.gz
+[INFO][0m 729201 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_49_S14_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_50_S15_R1_trimmed.fastq.gz
+[INFO][0m 1136649 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_50_S15_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_50_S15_R2_trimmed.fastq.gz
+[INFO][0m 1136649 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_50_S15_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_51_S16_R1_trimmed.fastq.gz
+[INFO][0m 812724 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_51_S16_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_51_S16_R2_trimmed.fastq.gz
+[INFO][0m 812724 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_51_S16_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_6_S1_R1_trimmed.fastq.gz
+[INFO][0m 706815 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_6_S1_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_6_S1_R2_trimmed.fastq.gz
+[INFO][0m 706815 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_6_S1_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_8_S2_R1_trimmed.fastq.gz
+[INFO][0m 562769 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_8_S2_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_8_S2_R2_trimmed.fastq.gz
+[INFO][0m 562769 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_3/IZSPB_8_S2_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_102_S26_R1_trimmed.fastq.gz
+[INFO][0m 2221970 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_102_S26_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_102_S26_R2_trimmed.fastq.gz
+[INFO][0m 2221970 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_102_S26_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_105_S27_R1_trimmed.fastq.gz
+[INFO][0m 1418313 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_105_S27_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_105_S27_R2_trimmed.fastq.gz
+[INFO][0m 1418313 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_105_S27_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_108_S28_R1_trimmed.fastq.gz
+[INFO][0m 1628735 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_108_S28_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_108_S28_R2_trimmed.fastq.gz
+[INFO][0m 1628735 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_108_S28_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_110_S29_R1_trimmed.fastq.gz
+[INFO][0m 887612 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_110_S29_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_110_S29_R2_trimmed.fastq.gz
+[INFO][0m 887612 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_110_S29_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_112_S30_R1_trimmed.fastq.gz
+[INFO][0m 689993 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_112_S30_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_112_S30_R2_trimmed.fastq.gz
+[INFO][0m 689993 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_112_S30_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_114_S32_R1_trimmed.fastq.gz
+[INFO][0m 1831396 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_114_S32_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_114_S32_R2_trimmed.fastq.gz
+[INFO][0m 1831396 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_114_S32_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_115_S31_R1_trimmed.fastq.gz
+[INFO][0m 716415 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_115_S31_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_115_S31_R2_trimmed.fastq.gz
+[INFO][0m 716415 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_115_S31_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_117_S33_R1_trimmed.fastq.gz
+[INFO][0m 307408 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_117_S33_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_117_S33_R2_trimmed.fastq.gz
+[INFO][0m 307408 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_117_S33_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_118_S34_R1_trimmed.fastq.gz
+[INFO][0m 643021 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_118_S34_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_118_S34_R2_trimmed.fastq.gz
+[INFO][0m 643021 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_118_S34_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_18_S10_R1_trimmed.fastq.gz
+[INFO][0m 709607 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_18_S10_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_18_S10_R2_trimmed.fastq.gz
+[INFO][0m 709607 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_18_S10_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_1_S7_R1_trimmed.fastq.gz
+[INFO][0m 1259819 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_1_S7_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_1_S7_R2_trimmed.fastq.gz
+[INFO][0m 1259819 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_1_S7_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_20_S11_R1_trimmed.fastq.gz
+[INFO][0m 2798185 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_20_S11_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_20_S11_R2_trimmed.fastq.gz
+[INFO][0m 2798185 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_20_S11_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_39_S12_R1_trimmed.fastq.gz
+[INFO][0m 934753 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_39_S12_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_39_S12_R2_trimmed.fastq.gz
+[INFO][0m 934753 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_39_S12_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_3_S8_R1_trimmed.fastq.gz
+[INFO][0m 760735 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_3_S8_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_3_S8_R2_trimmed.fastq.gz
+[INFO][0m 760735 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_3_S8_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_40_S13_R1_trimmed.fastq.gz
+[INFO][0m 1337611 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_40_S13_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_40_S13_R2_trimmed.fastq.gz
+[INFO][0m 1337611 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_40_S13_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_5_S9_R1_trimmed.fastq.gz
+[INFO][0m 305866 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_5_S9_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_5_S9_R2_trimmed.fastq.gz
+[INFO][0m 305866 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_5_S9_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_62_S14_R1_trimmed.fastq.gz
+[INFO][0m 2360318 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_62_S14_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_62_S14_R2_trimmed.fastq.gz
+[INFO][0m 2360318 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_62_S14_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_73_S15_R1_trimmed.fastq.gz
+[INFO][0m 1122410 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_73_S15_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_73_S15_R2_trimmed.fastq.gz
+[INFO][0m 1122410 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_73_S15_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_82_S16_R1_trimmed.fastq.gz
+[INFO][0m 499077 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_82_S16_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_82_S16_R2_trimmed.fastq.gz
+[INFO][0m 499077 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_82_S16_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_84_S17_R1_trimmed.fastq.gz
+[INFO][0m 1869009 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_84_S17_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_84_S17_R2_trimmed.fastq.gz
+[INFO][0m 1869009 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_84_S17_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_85_S18_R1_trimmed.fastq.gz
+[INFO][0m 4386950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_85_S18_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_85_S18_R2_trimmed.fastq.gz
+[INFO][0m 4386950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_85_S18_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_87_S19_R1_trimmed.fastq.gz
+[INFO][0m 5404870 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_87_S19_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_87_S19_R2_trimmed.fastq.gz
+[INFO][0m 5404870 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_87_S19_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_88_S20_R1_trimmed.fastq.gz
+[INFO][0m 923055 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_88_S20_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_88_S20_R2_trimmed.fastq.gz
+[INFO][0m 923055 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_88_S20_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_89_S21_R1_trimmed.fastq.gz
+[INFO][0m 3849215 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_89_S21_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_89_S21_R2_trimmed.fastq.gz
+[INFO][0m 3849215 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_89_S21_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_91_S22_R1_trimmed.fastq.gz
+[INFO][0m 1779982 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_91_S22_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_91_S22_R2_trimmed.fastq.gz
+[INFO][0m 1779982 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_91_S22_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_92_S23_R1_trimmed.fastq.gz
+[INFO][0m 2635634 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_92_S23_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_92_S23_R2_trimmed.fastq.gz
+[INFO][0m 2635634 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_92_S23_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_93_S24_R1_trimmed.fastq.gz
+[INFO][0m 1020547 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_93_S24_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_93_S24_R2_trimmed.fastq.gz
+[INFO][0m 1020547 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_93_S24_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_94_S25_R1_trimmed.fastq.gz
+[INFO][0m 769117 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_94_S25_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_94_S25_R2_trimmed.fastq.gz
+[INFO][0m 769117 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_4/IZSPB_94_S25_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-102_S9_R1_trimmed.fastq.gz
+[INFO][0m 2911184 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-102_S9_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-102_S9_R2_trimmed.fastq.gz
+[INFO][0m 2911184 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-102_S9_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-105_S10_R1_trimmed.fastq.gz
+[INFO][0m 2099891 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-105_S10_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-105_S10_R2_trimmed.fastq.gz
+[INFO][0m 2099891 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-105_S10_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-107_S19_R1_trimmed.fastq.gz
+[INFO][0m 250785 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-107_S19_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-107_S19_R2_trimmed.fastq.gz
+[INFO][0m 250785 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-107_S19_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-111_S20_R1_trimmed.fastq.gz
+[INFO][0m 1163752 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-111_S20_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-111_S20_R2_trimmed.fastq.gz
+[INFO][0m 1163752 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-111_S20_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-113_S21_R1_trimmed.fastq.gz
+[INFO][0m 1362537 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-113_S21_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-113_S21_R2_trimmed.fastq.gz
+[INFO][0m 1362537 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-113_S21_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-115_S11_R1_trimmed.fastq.gz
+[INFO][0m 903674 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-115_S11_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-115_S11_R2_trimmed.fastq.gz
+[INFO][0m 903674 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-115_S11_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-116_S12_R1_trimmed.fastq.gz
+[INFO][0m 1206851 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-116_S12_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-116_S12_R2_trimmed.fastq.gz
+[INFO][0m 1206851 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-116_S12_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-118_S13_R1_trimmed.fastq.gz
+[INFO][0m 943653 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-118_S13_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-118_S13_R2_trimmed.fastq.gz
+[INFO][0m 943653 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-118_S13_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-11_S29_R1_trimmed.fastq.gz
+[INFO][0m 777348 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-11_S29_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-11_S29_R2_trimmed.fastq.gz
+[INFO][0m 777348 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-11_S29_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-123_S14_R1_trimmed.fastq.gz
+[INFO][0m 4822750 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-123_S14_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-123_S14_R2_trimmed.fastq.gz
+[INFO][0m 4822750 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-123_S14_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-125_S15_R1_trimmed.fastq.gz
+[INFO][0m 2690272 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-125_S15_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-125_S15_R2_trimmed.fastq.gz
+[INFO][0m 2690272 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-125_S15_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-126_S16_R1_trimmed.fastq.gz
+[INFO][0m 4248164 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-126_S16_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-126_S16_R2_trimmed.fastq.gz
+[INFO][0m 4248164 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-126_S16_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-131_S22_R1_trimmed.fastq.gz
+[INFO][0m 3528507 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-131_S22_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-131_S22_R2_trimmed.fastq.gz
+[INFO][0m 3528507 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-131_S22_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-138_S23_R1_trimmed.fastq.gz
+[INFO][0m 5895138 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-138_S23_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-138_S23_R2_trimmed.fastq.gz
+[INFO][0m 5895138 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-138_S23_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-141_S24_R1_trimmed.fastq.gz
+[INFO][0m 5976096 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-141_S24_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-141_S24_R2_trimmed.fastq.gz
+[INFO][0m 5976096 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-141_S24_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-15_S30_R1_trimmed.fastq.gz
+[INFO][0m 1172648 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-15_S30_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-15_S30_R2_trimmed.fastq.gz
+[INFO][0m 1172648 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-15_S30_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-20_S7_R1_trimmed.fastq.gz
+[INFO][0m 2679585 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-20_S7_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-20_S7_R2_trimmed.fastq.gz
+[INFO][0m 2679585 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-20_S7_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-34_S31_R1_trimmed.fastq.gz
+[INFO][0m 838114 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-34_S31_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-34_S31_R2_trimmed.fastq.gz
+[INFO][0m 838114 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-34_S31_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-4_S1_R1_trimmed.fastq.gz
+[INFO][0m 662553 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-4_S1_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-4_S1_R2_trimmed.fastq.gz
+[INFO][0m 662553 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-4_S1_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-63_S26_R1_trimmed.fastq.gz
+[INFO][0m 7654831 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-63_S26_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-63_S26_R2_trimmed.fastq.gz
+[INFO][0m 7654831 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-63_S26_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-64_S25_R1_trimmed.fastq.gz
+[INFO][0m 1043237 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-64_S25_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-64_S25_R2_trimmed.fastq.gz
+[INFO][0m 1043237 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-64_S25_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-65_S27_R1_trimmed.fastq.gz
+[INFO][0m 8686648 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-65_S27_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-65_S27_R2_trimmed.fastq.gz
+[INFO][0m 8686648 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-65_S27_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-66_S28_R1_trimmed.fastq.gz
+[INFO][0m 6774983 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-66_S28_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-66_S28_R2_trimmed.fastq.gz
+[INFO][0m 6774983 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-66_S28_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-69_S3_R1_trimmed.fastq.gz
+[INFO][0m 902586 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-69_S3_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-69_S3_R2_trimmed.fastq.gz
+[INFO][0m 902586 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-69_S3_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-70_S5_R1_trimmed.fastq.gz
+[INFO][0m 1258180 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-70_S5_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-70_S5_R2_trimmed.fastq.gz
+[INFO][0m 1258180 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-70_S5_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-72_S32_R1_trimmed.fastq.gz
+[INFO][0m 836862 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-72_S32_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-72_S32_R2_trimmed.fastq.gz
+[INFO][0m 836862 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-72_S32_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-75_S6_R1_trimmed.fastq.gz
+[INFO][0m 1086950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-75_S6_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-75_S6_R2_trimmed.fastq.gz
+[INFO][0m 1086950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-75_S6_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-7_S2_R1_trimmed.fastq.gz
+[INFO][0m 1264864 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-7_S2_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-7_S2_R2_trimmed.fastq.gz
+[INFO][0m 1264864 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-7_S2_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-80_S17_R1_trimmed.fastq.gz
+[INFO][0m 3456452 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-80_S17_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-80_S17_R2_trimmed.fastq.gz
+[INFO][0m 3456452 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-80_S17_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-84_S8_R1_trimmed.fastq.gz
+[INFO][0m 2641914 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-84_S8_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-84_S8_R2_trimmed.fastq.gz
+[INFO][0m 2641914 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-84_S8_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-86_S18_R1_trimmed.fastq.gz
+[INFO][0m 1599592 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-86_S18_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-86_S18_R2_trimmed.fastq.gz
+[INFO][0m 1599592 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-86_S18_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-9_S4_R1_trimmed.fastq.gz
+[INFO][0m 1137199 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-9_S4_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-9_S4_R2_trimmed.fastq.gz
+[INFO][0m 1137199 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_5/IZSPB-9_S4_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_205_S21_R1_trimmed.fastq.gz
+[INFO][0m 749725 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_205_S21_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_205_S21_R2_trimmed.fastq.gz
+[INFO][0m 749725 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_205_S21_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_206_S22_R1_trimmed.fastq.gz
+[INFO][0m 2860205 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_206_S22_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_206_S22_R2_trimmed.fastq.gz
+[INFO][0m 2860205 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_206_S22_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_207_S23_R1_trimmed.fastq.gz
+[INFO][0m 703808 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_207_S23_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_207_S23_R2_trimmed.fastq.gz
+[INFO][0m 703808 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_207_S23_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_208_S24_R1_trimmed.fastq.gz
+[INFO][0m 741670 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_208_S24_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_208_S24_R2_trimmed.fastq.gz
+[INFO][0m 741670 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_208_S24_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_209_S25_R1_trimmed.fastq.gz
+[INFO][0m 2062628 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_209_S25_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_209_S25_R2_trimmed.fastq.gz
+[INFO][0m 2062628 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_209_S25_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_210_S26_R1_trimmed.fastq.gz
+[INFO][0m 1456427 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_210_S26_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_210_S26_R2_trimmed.fastq.gz
+[INFO][0m 1456427 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_210_S26_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_211_S27_R1_trimmed.fastq.gz
+[INFO][0m 2910529 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_211_S27_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_211_S27_R2_trimmed.fastq.gz
+[INFO][0m 2910529 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_211_S27_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_213_S28_R1_trimmed.fastq.gz
+[INFO][0m 3249584 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_213_S28_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_213_S28_R2_trimmed.fastq.gz
+[INFO][0m 3249584 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_213_S28_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_214_S29_R1_trimmed.fastq.gz
+[INFO][0m 1712123 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_214_S29_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_214_S29_R2_trimmed.fastq.gz
+[INFO][0m 1712123 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_214_S29_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_215_S30_R1_trimmed.fastq.gz
+[INFO][0m 2325485 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_215_S30_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_215_S30_R2_trimmed.fastq.gz
+[INFO][0m 2325485 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_215_S30_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_216_S31_R1_trimmed.fastq.gz
+[INFO][0m 1734446 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_216_S31_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_216_S31_R2_trimmed.fastq.gz
+[INFO][0m 1734446 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_216_S31_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_217_S32_R1_trimmed.fastq.gz
+[INFO][0m 3262417 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_217_S32_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_217_S32_R2_trimmed.fastq.gz
+[INFO][0m 3262417 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_217_S32_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_218_S33_R1_trimmed.fastq.gz
+[INFO][0m 1791499 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_218_S33_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_218_S33_R2_trimmed.fastq.gz
+[INFO][0m 1791499 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_218_S33_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_219_S34_R1_trimmed.fastq.gz
+[INFO][0m 1890227 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_219_S34_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_219_S34_R2_trimmed.fastq.gz
+[INFO][0m 1890227 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_219_S34_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_220_S35_R1_trimmed.fastq.gz
+[INFO][0m 1759233 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_220_S35_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_220_S35_R2_trimmed.fastq.gz
+[INFO][0m 1759233 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_220_S35_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_221_S36_R1_trimmed.fastq.gz
+[INFO][0m 2907359 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_221_S36_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_221_S36_R2_trimmed.fastq.gz
+[INFO][0m 2907359 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_221_S36_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_222_S37_R1_trimmed.fastq.gz
+[INFO][0m 2233404 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_222_S37_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_222_S37_R2_trimmed.fastq.gz
+[INFO][0m 2233404 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_222_S37_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_223_S38_R1_trimmed.fastq.gz
+[INFO][0m 1063785 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_223_S38_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_223_S38_R2_trimmed.fastq.gz
+[INFO][0m 1063785 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_223_S38_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_224_S39_R1_trimmed.fastq.gz
+[INFO][0m 3156794 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_224_S39_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_224_S39_R2_trimmed.fastq.gz
+[INFO][0m 3156794 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_224_S39_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_225_S40_R1_trimmed.fastq.gz
+[INFO][0m 2695000 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_225_S40_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_225_S40_R2_trimmed.fastq.gz
+[INFO][0m 2695000 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_225_S40_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_226_S41_R1_trimmed.fastq.gz
+[INFO][0m 3218439 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_226_S41_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_226_S41_R2_trimmed.fastq.gz
+[INFO][0m 3218439 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_226_S41_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_227_S42_R1_trimmed.fastq.gz
+[INFO][0m 2633675 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_227_S42_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_227_S42_R2_trimmed.fastq.gz
+[INFO][0m 2633675 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_227_S42_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_228_S43_R1_trimmed.fastq.gz
+[INFO][0m 3531936 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_228_S43_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_228_S43_R2_trimmed.fastq.gz
+[INFO][0m 3531936 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_228_S43_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_229_S44_R1_trimmed.fastq.gz
+[INFO][0m 4167345 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_229_S44_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_229_S44_R2_trimmed.fastq.gz
+[INFO][0m 4167345 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_229_S44_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_230_S45_R1_trimmed.fastq.gz
+[INFO][0m 2572826 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_230_S45_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_230_S45_R2_trimmed.fastq.gz
+[INFO][0m 2572826 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_230_S45_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_231_S46_R1_trimmed.fastq.gz
+[INFO][0m 1442925 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_231_S46_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_231_S46_R2_trimmed.fastq.gz
+[INFO][0m 1442925 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_231_S46_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_232_S47_R1_trimmed.fastq.gz
+[INFO][0m 740700 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_232_S47_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_232_S47_R2_trimmed.fastq.gz
+[INFO][0m 740700 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_232_S47_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_233_S48_R1_trimmed.fastq.gz
+[INFO][0m 1677780 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_233_S48_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_233_S48_R2_trimmed.fastq.gz
+[INFO][0m 1677780 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_233_S48_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_235_S49_R1_trimmed.fastq.gz
+[INFO][0m 1955552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_235_S49_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_235_S49_R2_trimmed.fastq.gz
+[INFO][0m 1955552 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_235_S49_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_236_S50_R1_trimmed.fastq.gz
+[INFO][0m 1822487 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_236_S50_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_236_S50_R2_trimmed.fastq.gz
+[INFO][0m 1822487 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_236_S50_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_237_S51_R1_trimmed.fastq.gz
+[INFO][0m 3601386 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_237_S51_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_237_S51_R2_trimmed.fastq.gz
+[INFO][0m 3601386 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_237_S51_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_238_S52_R1_trimmed.fastq.gz
+[INFO][0m 1432447 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_238_S52_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_238_S52_R2_trimmed.fastq.gz
+[INFO][0m 1432447 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_238_S52_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_239_S53_R1_trimmed.fastq.gz
+[INFO][0m 3855482 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_239_S53_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_239_S53_R2_trimmed.fastq.gz
+[INFO][0m 3855482 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_239_S53_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_240_S54_R1_trimmed.fastq.gz
+[INFO][0m 4340931 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_240_S54_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_240_S54_R2_trimmed.fastq.gz
+[INFO][0m 4340931 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_240_S54_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_241_S55_R1_trimmed.fastq.gz
+[INFO][0m 1467297 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_241_S55_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_241_S55_R2_trimmed.fastq.gz
+[INFO][0m 1467297 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_241_S55_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_242_S56_R1_trimmed.fastq.gz
+[INFO][0m 2113641 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_242_S56_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_242_S56_R2_trimmed.fastq.gz
+[INFO][0m 2113641 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_242_S56_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_243_S57_R1_trimmed.fastq.gz
+[INFO][0m 1449011 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_243_S57_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_243_S57_R2_trimmed.fastq.gz
+[INFO][0m 1449011 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_243_S57_R2_trimmed.fastq.gz
+
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_244_S58_R1_trimmed.fastq.gz
+[INFO][0m 1266950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_244_S58_R1_trimmed.fastq.gz
+[INFO][0m read file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_244_S58_R2_trimmed.fastq.gz
+[INFO][0m 1266950 records loaded from file: /home/aazzolini/gdebiase/fastp/fastq_6/DV_IZSPB_244_S58_R2_trimmed.fastq.gz
+
