@@ -24,5 +24,17 @@ Per quanto riguarda l'ultimo tentativo abbiamo concatenato tutte le read PE con 
 [Tentativo 4 (read concatenate)](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_hs_t2t_concat.sh)
 
 ## Indicizzazione del genoma di Sars-CoV-2 con STAR
-Assembly del genoma di Sars-CoV-2 (ASM985889v3) e annotazioni scaricate da [qui](https://covid-19.ensembl.org/Sars_cov_2/Info/Index)
+Assembly del genoma di Sars-CoV-2 (ASM985889v3) e annotazioni scaricate da [qui](https://covid-19.ensembl.org/Sars_cov_2/Info/Index)  
+[Script per l'indicizzazione](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_index.sh)  
+
 ## Allineamento delle read sul genoma di Sars-CoV-2 con STAR
+Qui abbiamo fatto vari tentativi per l'allineamento:  
+[Tentativo 1](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mapping.sh) (utilizzando read concatenate che non mappano sul genoma umano)  
+Per il secondo tentativo abbiamo deciso di mappare le read paired end, filtrate dall'allineamento sul genoma umano, sul genoma di Sars-CoV-2.  
+Per generare dei fastq contenenti le read sopracitate ho creato i seguenti 6 script (uno per ciascuna run). Ogni script utilizza un file di testo chiamato name[numerorun] per iterare i campioni:  
+Run 1: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search.py)  [names](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names.txt)  
+Run 2: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r2.py)  [names2](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names2.txt)  
+Run 3: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r3.py)  [names3](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names3.txt)  
+Run 4: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r4.py)  [names4](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names4.txt)  
+Run 5: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r5.py)  [names5](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names5.txt)  
+Run 6: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r6.py)  [names6](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names6.txt)  
