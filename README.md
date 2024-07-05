@@ -1,17 +1,17 @@
 ## Controllo qualità
 I file relativi al controllo qualità delle read in rawdata si trovano nelle seguenti cartelle:  
-FastQC: /home/aazzolini/gdebiase/QC_rawdata/fastqc_output_x (con x da 1 a 6)  
-MultiQC: /home/aazzolini/gdebiase/QC_rawdata/multiqc  
-Nella cartella del MultiQC è presente anche il file "multiqc_report.html" contentente il risultato del MultiQC per tutte e 6 le run.
+FastQC: `/home/aazzolini/gdebiase/QC_rawdata/fastqc_output_x` (con x da 1 a 6)  
+MultiQC: `/home/aazzolini/gdebiase/QC_rawdata/multiqc`  
+Nella cartella del MultiQC è presente anche il file `multiqc_report.html` contentente il risultato del MultiQC per tutte e 6 le run.
 
 ## Trimming
 Trimming con FastP  
 [Script per il trimming](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/fastp_trimming.sh) 
 
 I file relativi al controllo qualità delle read trimmed si trovano nelle seguenti cartelle:  
-FastQC: /home/aazzolini/gdebiase/fastp/trimmed_qc  
-MultiQC: /home/aazzolini/gdebiase/fastp/multiqc_trimmed  
-Nella cartella del MultiQC è presente anche il file "multiqc_report.html" contentente il risultato del MultiQC per tutte e 6 le run.
+FastQC: `/home/aazzolini/gdebiase/fastp/trimmed_qc`  
+MultiQC: `/home/aazzolini/gdebiase/fastp/multiqc_trimmed`  
+Nella cartella del MultiQC è presente anche il file `multiqc_report.html` contentente il risultato del MultiQC per tutte e 6 le run.
 
 ## Indicizzazione del genoma umano con STAR
 Assembly del genoma umano (CHM13 V2.0) e annotazioni scaricate da [qui](https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/)  
