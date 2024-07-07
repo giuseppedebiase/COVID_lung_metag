@@ -1,6 +1,7 @@
 import gzip
 from Bio import SeqIO
 '''
+RUN 6
 names.txt è un file che contiene per ogni riga la parte del nome comune
 tra read concatenata e read forward/reverse
 es. nome read concatenata: Lib_10_S9__concatUnmapped.out.mate1.gz
