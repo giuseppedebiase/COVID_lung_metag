@@ -18,6 +18,6 @@ for run in $(ls /home/aazzolini/gdebiase/fastp); do
         --alignSJoverhangMin 6 \
         --alignSJDBoverhangMin 6 \
         --sjdbOverhang 65 \
-        --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2T/${run}_STAR_mapping_result/${seq}
+        --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2Tv2/${run}_STAR_mapping_result/${seq}
     done
 done
