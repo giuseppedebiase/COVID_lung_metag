@@ -18,7 +18,7 @@ for run in $(ls /home/aazzolini/gdebiase/fastp); do
         --alignSJoverhangMin 6 \
         --alignSJDBoverhangMin 6 \
         --clip5pNbases 5 \
-        --clip3pNbases 5 \
+        --clip5pNbases 5 \
         --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2T/${run}_STAR_mapping_result/${seq}
     done
 done

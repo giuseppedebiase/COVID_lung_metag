@@ -17,7 +17,8 @@ for run in $(ls /home/aazzolini/gdebiase/fastp); do
         --chimOutType WithinBAM HardClip \
         --alignSJoverhangMin 6 \
         --alignSJDBoverhangMin 6 \
-        --sjdbOverhang 65 \
-        --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2Tv2/${run}_STAR_mapping_result/${seq}
+        --clip5pNbases 5 \
+        --clip5pNbases 5 \
+        --outFileNamePrefix /home/aazzolini/gdebiase/hs_T2T/${run}_STAR_mapping_result/${seq}
     done
 done
