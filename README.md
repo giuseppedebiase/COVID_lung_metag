@@ -15,7 +15,9 @@ Nella cartella del MultiQC è presente anche il file `multiqc_report.html` conte
 
 ## Indicizzazione del genoma umano con STAR
 Assembly del genoma umano (CHM13 V2.0) e annotazioni scaricate da [qui](https://hgdownload.soe.ucsc.edu/goldenPath/hs1/bigZips/)  
-[Script per l'indicizzazione](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_hs_t2t_index.sh)
+[Script per l'indicizzazione](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_hs_t2t_index.sh)  
+I file generati dall'indicizzazione si trovano nel seguente path:
+`/home/aazzolini/gdebiase/hs_T2T/hs_T2T_genomeindex`
 
 ## Allineamento delle read sul genoma umano con STAR
 Qui abbiamo fatto vari tentativi di allineamento:  
