@@ -45,5 +45,5 @@ Run 5: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/sc
 Run 6: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/read_search_r6.py)  [names6](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/names6.txt)  
 [Tentativo 2](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv2.sh)  
 
-Per il Tentativo 3 abbiamo utilizzato le read PE unmapped risultanti dall'allineamento del 3° tentativo di allineamento sul genoma umano.
+Per il Tentativo 3 abbiamo utilizzato le read PE unmapped risultanti dall'allineamento del 3° tentativo di allineamento sul genoma umano.  
 [Tentativo 3](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv3.sh)
