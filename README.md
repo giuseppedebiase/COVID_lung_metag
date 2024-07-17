@@ -48,4 +48,8 @@ Run 6: [Script](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/sc
 [Tentativo 2](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv2.sh)  
 
 Per il Tentativo 3 abbiamo utilizzato le read PE unmapped risultanti dall'allineamento del 3° tentativo di allineamento sul genoma umano.  
-[Tentativo 3](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv3.sh)
+[Tentativo 3](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/star_sc2_mappingv3.sh)  
+
+## Classificazione tassonomica con Kraken2  
+Per la classificazione abbiamo utilizzato il db PlusPF (6/5/2024) [link](https://benlangmead.github.io/aws-indexes/k2)  
+[Script per la classificazione tassonomica](https://github.com/giuseppedebiase/COVID_lung_metag/blob/main/script/kraken2_classification.sh)
