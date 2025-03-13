@@ -1,14 +1,13 @@
 import gzip
 from Bio import SeqIO
 '''
-names.txt è un file che contiene per ogni riga la parte del nome comune
-tra read concatenata e read forward/reverse
-es. nome read concatenata: Lib_10_S9__concatUnmapped.out.mate1.gz
-nome read forward: Lib_10_S9_R1_trimmed.fastq.gz
-in name sarà presente Lib_10_S9
-per generare i nomi presenti in names.txt si può utilizzare il comando
-ls | grep .gz | cut -d '_' -f 1,2,3 | uniq (FORSE NON PER TUTTE LE RUN, ATTENTO)
-all'interno di ogni singola run presente all'interno della cartella "fastp"
+names.txt is a file that contains, for each line, the common part of the name between the concatenated read and the forward/reverse read.
+ex. concatenated read name: Lib_10_S9__concatUnmapped.out.mate1.gz
+forward read name: Lib_10_S9_R1_trimmed.fastq.gz
+in names.txt, the entry will be: Lib_10_S9
+to generate the names listed in names.txt, I used the following command:
+ls | grep .gz | cut -d '_' -f 1,2,3 | uniq
+for each of the run folders in the "fastp" folder
 '''
 names = open('/home/aazzolini/gdebiase/script/names.txt')
 for line in names:
